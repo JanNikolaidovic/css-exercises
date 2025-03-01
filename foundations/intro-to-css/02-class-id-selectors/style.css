@@ -1,0 +1,7 @@
+/* class selector definition for odd numbered elements */
+
+.odd-numbered-elements{
+    background-color:rgb(255, 157, 173);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+
+}
