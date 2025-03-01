@@ -18,7 +18,7 @@ and a list of fonts containing Verdana and DejaVu Sans with sans-serif as a fall
 
 
 /* The third element: in addition to the styles for all odd numbered elements, add a font size of 24px */
-#font-24px {
+.adjust-font-size {
     font-size: 24px;
 }
 
