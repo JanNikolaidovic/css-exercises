@@ -1,0 +1,25 @@
+
+/* solution using classes */
+/* .container .text{
+    background-color: yellow;
+    color:red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+/* solution using types */
+/* div p {
+    background-color: yellow;
+    color:red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+/* solution using both type and class selector (4fun) */
+
+div .text {
+    background-color: yellow;
+    color:red;
+    font-size: 20px;
+    text-align: center;
+}
